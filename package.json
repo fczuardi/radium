@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "react": "0.12.x"
+    "react": "0.13.0-rc1"
   },
   "dependencies": {
     "lodash": "^3.2.0"
